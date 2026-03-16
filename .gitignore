@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node / tooling
+node_modules/
+
+# Logs
+*.log
+
