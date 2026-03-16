@@ -480,11 +480,11 @@ h3 {
 @media (max-width: 720px) {
   .header-inner {
     padding-inline: 1rem;
-    padding-block: 0.4rem;
+    padding-block: 0.6rem;
   }
 
   .brand-logo {
-    height: 48px;
+    height: 80px;
   }
 
   .nav-toggle {
